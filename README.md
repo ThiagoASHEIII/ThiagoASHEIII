@@ -24,3 +24,5 @@ You can click the Preview link to take a look at your changes.
 ** Mi video favoritooo
 
 https://www.youtube.com/embed/aNNZL9wxw_w?si=IpmAMg_a09B7MNcZ
+
+||[![](http://markdown-videos-api.jorgenkh.no/youtube/aNNZL9wxw_w?si=UK5LaSxoeIPLjp-o)](https://youtu.be/aNNZL9wxw_w?si=UK5LaSxoeIPLjp-o)
