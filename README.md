@@ -21,8 +21,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-** Mi video favoritooo
+** Mis videos favoritos:
 
-https://www.youtube.com/embed/aNNZL9wxw_w?si=IpmAMg_a09B7MNcZ
-
-||[![](http://markdown-videos-api.jorgenkh.no/youtube/aNNZL9wxw_w?si=UK5LaSxoeIPLjp-o)](https://youtu.be/aNNZL9wxw_w?si=UK5LaSxoeIPLjp-o)
+[![](http://markdown-videos-api.jorgenkh.no/youtube/aNNZL9wxw_w?si=UK5LaSxoeIPLjp-o)](https://youtu.be/aNNZL9wxw_w?si=UK5LaSxoeIPLjp-o)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/eEYiplUFWF4?si=85IWcM9o-C0sagF2)](https://youtu.be/eEYiplUFWF4?si=85IWcM9o-C0sagF2)
